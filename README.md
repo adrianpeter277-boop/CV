@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Hola,%20soy%20Adrián%20Peter&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0008&height=250&section=header&text=Hola,%20soy%20Adrián%20Peter&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -28,26 +28,49 @@ Soy un apasionado de la tecnología con una base sólida en sistemas y redes, ac
 
 #### 💻 Desarrollo y Software
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,vscode,github" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Basic-%235C2D91.svg?style=for-the-badge&logo=visual-basic&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-#### 🔌 Sistemas y Redes
+#### 🔌 Entornos y Bases de Datos
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,apple,phtotoshop,pr" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual+studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache+netbeans+ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeidiSQL-FFD700?style=for-the-badge&logo=databricks&logoColor=black" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+#### 🔌 Sistemas y Redes (SMR)
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  
 </p>
 
 ---
-
-### 📊 Mis Estadísticas
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+#### 🌐 Idiomas
+![Español](https://img.shields.io/badge/Español-Nativo-black?style=flat-square&logo=spain)
+![Inglés](https://img.shields.io/badge/Inglés-B2%20Avanzado-blue?style=flat-square&logo=british-council)
+![Rumano](https://img.shields.io/badge/Rumano-Avanzado-red?style=flat-square&logo=romania)
 ---
 
 ### 🤝 Contacto
 ¡Siempre estoy abierto a colaborar en proyectos interesantes o aprender nuevas tecnologías!
 
 - 📧 Correo: [adrianpeter277@gmail.com](mailto:adrianpeter277@gmail.com)
+- Telefono: 643699236
 - 📍 Ubicación: Madrid, España
