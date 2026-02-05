@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Adrián%20Alexandru%20Peter&fontSize=60&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Hola,%20soy%20Adrián%20Peter&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -8,41 +8,46 @@
   <img src="https://img.shields.io/badge/-Full%20Stack%20Learner-black?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="mailto:adrianpeter277@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+34643699236"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
 ---
 
 ### 🚀 Sobre mí
-[cite_start]Soy una persona con muchas ganas de desarrollar mis conocimientos sobre el oficio[cite: 5]. [cite_start]Tengo una base sólida en sistemas y redes, y actualmente estoy enfocado en el **Desarrollo de Aplicaciones Multiplataforma (DAM)**[cite: 31, 32].
+Soy un apasionado de la tecnología con una base sólida en sistemas y redes, actualmente enfocado en el **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me caracterizo por mi capacidad de aprendizaje y resolución de problemas técnicos.
 
-- [cite_start]🎓 **Educación:** Grado Superior en DAM (En proceso en Domenico Scarlatti) [cite: 31, 33, 34] [cite_start]y Grado Medio en SMR (IES Lepanto)[cite: 26, 28].
-- [cite_start]🛠️ **Experiencia:** Instalación de redes (RJ-45, RACKs) [cite: 8, 9] [cite_start]y edición audiovisual[cite: 18, 20].
-- [cite_start]🌍 **Idiomas:** Español (Nativo), Inglés (B2) y Rumano (Avanzado)[cite: 36, 37, 38].
+- 🎓 **Educación:** Grado Superior en DAM (En proceso) y Grado Medio en SMR.
+- 🛠️ **Experiencia Técnica:** Instalación de redes, montajes de RACKs y sistemas audiovisuales.
+- 🌍 **Idiomas:** Español (Nativo), Inglés (B2) y Rumano (Avanzado).
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-#### 💻 Desarrollo y Entornos
+#### 💻 Desarrollo y Software
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,netbeans,java,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,vscode,github" />
 </p>
 
-#### 🗄️ Bases de Datos y Herramientas Técnicas
+#### 🔌 Sistemas y Redes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb,windows,linux,powershell" /> 
-  <img src="https://img.shields.io/badge/HeidiSQL-FFD700?style=for-the-badge&logo=databricks&logoColor=black" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple,phtotoshop,pr" />
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis Estadísticas
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AQUÍ_TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AQUÍ_TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🤝 Contacto
-- [cite_start]📧 Correo: adrianpeter277@gmail.com [cite: 6]
-- [cite_start]📞 Teléfono: +34 643 699 236 [cite: 4]
+¡Siempre estoy abierto a colaborar en proyectos interesantes o aprender nuevas tecnologías!
+
+- 📧 Correo: [adrianpeter277@gmail.com](mailto:adrianpeter277@gmail.com)
+- 📍 Ubicación: Madrid, España
